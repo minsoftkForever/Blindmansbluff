@@ -1,0 +1,28 @@
+{
+  "name": "blindmansbluff",
+  "version": "1.0.0",
+  "description": "Indian poker, or squaw poker or Oklahoma forehead or Indian head",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minsoftkForever/Blindmansbluff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minsoftkForever/Blindmansbluff/issues"
+  },
+  "homepage": "https://github.com/minsoftkForever/Blindmansbluff#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.25.3",
+    "prettier": "2.5.1"
+  }
+}
