@@ -1,2 +1,14 @@
-# Blindmansbluff
- Indian poker, or squaw poker or Oklahoma forehead or Indian head
+# Indian Poker Game
+
+- 덱 구성은 [1,2,3,4,5,6,7,8,9,10] \* 2로 하되 모두 소진할 때 까지 운용한다.
+- 컴퓨터는 오로지 받을 수만 있다.
+- PVP일 경우, 베팅을 구현한다.(optional)
+- 플레이어는 20개의 칩으로 시작하며, 칩을 모두 소진시키거나(승) 모두 소진할 경우(패) 게임이 종료된다.
+  게임 중 언제든지 :q를 입력하면 게임은 강제종료된다
+
+# Member
+
+- 김민성
+- 박민지
+- 박시안
+- 여은성
